@@ -1,0 +1,406 @@
+region,sex,black_or_not,chinese_or_not,other_race,mexican_or_not,age_under_30,income_in_range,n
+new england division,0,0,0,0,0,0,0,44276
+new england division,0,0,0,0,0,0,1,2327
+new england division,0,0,0,0,0,1,0,9693
+new england division,0,0,0,0,0,1,1,350
+new england division,0,0,0,0,1,0,0,174
+new england division,0,0,0,0,1,1,0,118
+new england division,0,0,0,1,0,0,0,2250
+new england division,0,0,0,1,0,0,1,149
+new england division,0,0,0,1,0,1,0,908
+new england division,0,0,0,1,0,1,1,33
+new england division,0,0,0,1,1,0,0,66
+new england division,0,0,0,1,1,1,0,39
+new england division,0,0,1,0,0,0,0,693
+new england division,0,0,1,0,0,0,1,52
+new england division,0,0,1,0,0,1,0,391
+new england division,0,0,1,0,0,1,1,12
+new england division,0,1,0,0,0,0,0,2350
+new england division,0,1,0,0,0,0,1,65
+new england division,0,1,0,0,0,1,0,836
+new england division,0,1,0,0,0,1,1,22
+new england division,1,0,0,0,0,0,0,39863
+new england division,1,0,0,0,0,0,1,2301
+new england division,1,0,0,0,0,1,0,9677
+new england division,1,0,0,0,0,1,1,484
+new england division,1,0,0,0,1,0,0,139
+new england division,1,0,0,0,1,1,0,117
+new england division,1,0,0,1,0,0,0,2041
+new england division,1,0,0,1,0,0,1,117
+new england division,1,0,0,1,0,1,0,912
+new england division,1,0,0,1,0,1,1,34
+new england division,1,0,0,1,1,0,0,74
+new england division,1,0,0,1,1,1,0,41
+new england division,1,0,1,0,0,0,0,541
+new england division,1,0,1,0,0,0,1,50
+new england division,1,0,1,0,0,1,0,337
+new england division,1,1,0,0,0,0,0,2086
+new england division,1,1,0,0,0,0,1,67
+new england division,1,1,0,0,0,1,0,996
+new england division,1,1,0,0,0,1,1,17
+middle atlantic division,0,0,0,0,0,0,0,109552
+middle atlantic division,0,0,0,0,0,0,1,4725
+middle atlantic division,0,0,0,0,0,1,0,22993
+middle atlantic division,0,0,0,0,0,1,1,864
+middle atlantic division,0,0,0,0,1,0,0,686
+middle atlantic division,0,0,0,0,1,0,1,17
+middle atlantic division,0,0,0,0,1,1,0,359
+middle atlantic division,0,0,0,1,0,0,0,9917
+middle atlantic division,0,0,0,1,0,0,1,612
+middle atlantic division,0,0,0,1,0,1,0,3148
+middle atlantic division,0,0,0,1,0,1,1,130
+middle atlantic division,0,0,0,1,1,0,0,471
+middle atlantic division,0,0,0,1,1,1,0,248
+middle atlantic division,0,0,1,0,0,0,0,3178
+middle atlantic division,0,0,1,0,0,0,1,225
+middle atlantic division,0,0,1,0,0,1,0,1047
+middle atlantic division,0,0,1,0,0,1,1,42
+middle atlantic division,0,1,0,0,0,0,0,13886
+middle atlantic division,0,1,0,0,0,0,1,379
+middle atlantic division,0,1,0,0,0,1,0,3866
+middle atlantic division,0,1,0,0,0,1,1,101
+middle atlantic division,0,1,0,0,1,0,0,28
+middle atlantic division,0,1,0,0,1,1,0,20
+middle atlantic division,1,0,0,0,0,0,0,99817
+middle atlantic division,1,0,0,0,0,0,1,4793
+middle atlantic division,1,0,0,0,0,1,0,23259
+middle atlantic division,1,0,0,0,0,1,1,1098
+middle atlantic division,1,0,0,0,1,0,0,773
+middle atlantic division,1,0,0,0,1,0,1,30
+middle atlantic division,1,0,0,0,1,1,0,391
+middle atlantic division,1,0,0,0,1,1,1,16
+middle atlantic division,1,0,0,1,0,0,0,8498
+middle atlantic division,1,0,0,1,0,0,1,535
+middle atlantic division,1,0,0,1,0,1,0,3280
+middle atlantic division,1,0,0,1,0,1,1,127
+middle atlantic division,1,0,0,1,1,0,0,594
+middle atlantic division,1,0,0,1,1,0,1,11
+middle atlantic division,1,0,0,1,1,1,0,279
+middle atlantic division,1,0,1,0,0,0,0,2654
+middle atlantic division,1,0,1,0,0,0,1,184
+middle atlantic division,1,0,1,0,0,1,0,981
+middle atlantic division,1,0,1,0,0,1,1,52
+middle atlantic division,1,1,0,0,0,0,0,11266
+middle atlantic division,1,1,0,0,0,0,1,331
+middle atlantic division,1,1,0,0,0,1,0,4044
+middle atlantic division,1,1,0,0,0,1,1,89
+middle atlantic division,1,1,0,0,1,0,0,15
+middle atlantic division,1,1,0,0,1,1,0,14
+east north central div,0,0,0,0,0,0,0,133824
+east north central div,0,0,0,0,0,0,1,3555
+east north central div,0,0,0,0,0,1,0,27720
+east north central div,0,0,0,0,0,1,1,607
+east north central div,0,0,0,0,1,0,0,3207
+east north central div,0,0,0,0,1,0,1,70
+east north central div,0,0,0,0,1,1,0,1584
+east north central div,0,0,0,0,1,1,1,25
+east north central div,0,0,0,1,0,0,0,3538
+east north central div,0,0,0,1,0,0,1,193
+east north central div,0,0,0,1,0,1,0,1172
+east north central div,0,0,0,1,0,1,1,34
+east north central div,0,0,0,1,1,0,0,1342
+east north central div,0,0,0,1,1,0,1,13
+east north central div,0,0,0,1,1,1,0,578
+east north central div,0,0,1,0,0,0,0,726
+east north central div,0,0,1,0,0,0,1,54
+east north central div,0,0,1,0,0,1,0,413
+east north central div,0,1,0,0,0,0,0,12759
+east north central div,0,1,0,0,0,0,1,128
+east north central div,0,1,0,0,0,1,0,3258
+east north central div,0,1,0,0,0,1,1,26
+east north central div,0,1,0,0,1,0,0,49
+east north central div,0,1,0,0,1,1,0,31
+east north central div,1,0,0,0,0,0,0,125744
+east north central div,1,0,0,0,0,0,1,3549
+east north central div,1,0,0,0,0,1,0,28762
+east north central div,1,0,0,0,0,1,1,705
+east north central div,1,0,0,0,1,0,0,3301
+east north central div,1,0,0,0,1,0,1,65
+east north central div,1,0,0,0,1,1,0,1615
+east north central div,1,0,0,0,1,1,1,26
+east north central div,1,0,0,1,0,0,0,3069
+east north central div,1,0,0,1,0,0,1,202
+east north central div,1,0,0,1,0,1,0,1240
+east north central div,1,0,0,1,0,1,1,28
+east north central div,1,0,0,1,1,0,0,1461
+east north central div,1,0,0,1,1,0,1,13
+east north central div,1,0,0,1,1,1,0,603
+east north central div,1,0,1,0,0,0,0,576
+east north central div,1,0,1,0,0,0,1,46
+east north central div,1,0,1,0,0,1,0,413
+east north central div,1,1,0,0,0,0,0,10828
+east north central div,1,1,0,0,0,0,1,130
+east north central div,1,1,0,0,0,1,0,3665
+east north central div,1,1,0,0,0,1,1,34
+east north central div,1,1,0,0,1,0,0,30
+east north central div,1,1,0,0,1,1,0,29
+west north central div,0,0,0,0,0,0,0,64723
+west north central div,0,0,0,0,0,0,1,1491
+west north central div,0,0,0,0,0,1,0,13452
+west north central div,0,0,0,0,0,1,1,233
+west north central div,0,0,0,0,1,0,0,1038
+west north central div,0,0,0,0,1,0,1,18
+west north central div,0,0,0,0,1,1,0,566
+west north central div,0,0,0,1,0,0,0,1088
+west north central div,0,0,0,1,0,0,1,53
+west north central div,0,0,0,1,0,1,0,481
+west north central div,0,0,0,1,1,0,0,311
+west north central div,0,0,0,1,1,1,0,159
+west north central div,0,0,1,0,0,0,0,181
+west north central div,0,0,1,0,0,1,0,129
+west north central div,0,1,0,0,0,0,0,2494
+west north central div,0,1,0,0,0,0,1,21
+west north central div,0,1,0,0,0,1,0,771
+west north central div,0,1,0,0,1,0,0,12
+west north central div,1,0,0,0,0,0,0,61725
+west north central div,1,0,0,0,0,0,1,1495
+west north central div,1,0,0,0,0,1,0,14122
+west north central div,1,0,0,0,0,1,1,275
+west north central div,1,0,0,0,1,0,0,1012
+west north central div,1,0,0,0,1,0,1,10
+west north central div,1,0,0,0,1,1,0,588
+west north central div,1,0,0,1,0,0,0,983
+west north central div,1,0,0,1,0,0,1,44
+west north central div,1,0,0,1,0,1,0,479
+west north central div,1,0,0,1,1,0,0,362
+west north central div,1,0,0,1,1,1,0,205
+west north central div,1,0,1,0,0,0,0,142
+west north central div,1,0,1,0,0,1,0,105
+west north central div,1,1,0,0,0,0,0,2534
+west north central div,1,1,0,0,0,0,1,29
+west north central div,1,1,0,0,0,1,0,1052
+west north central div,1,1,0,0,1,0,0,10
+west north central div,1,1,0,0,1,1,0,11
+south atlantic division,0,0,0,0,0,0,0,164697
+south atlantic division,0,0,0,0,0,0,1,6121
+south atlantic division,0,0,0,0,0,1,0,32215
+south atlantic division,0,0,0,0,0,1,1,862
+south atlantic division,0,0,0,0,1,0,0,2488
+south atlantic division,0,0,0,0,1,0,1,54
+south atlantic division,0,0,0,0,1,1,0,1364
+south atlantic division,0,0,0,0,1,1,1,22
+south atlantic division,0,0,0,1,0,0,0,8632
+south atlantic division,0,0,0,1,0,0,1,572
+south atlantic division,0,0,0,1,0,1,0,2485
+south atlantic division,0,0,0,1,0,1,1,70
+south atlantic division,0,0,0,1,1,0,0,863
+south atlantic division,0,0,0,1,1,1,0,490
+south atlantic division,0,0,1,0,0,0,0,1366
+south atlantic division,0,0,1,0,0,0,1,114
+south atlantic division,0,0,1,0,0,1,0,442
+south atlantic division,0,0,1,0,0,1,1,18
+south atlantic division,0,1,0,0,0,0,0,37481
+south atlantic division,0,1,0,0,0,0,1,593
+south atlantic division,0,1,0,0,0,1,0,9751
+south atlantic division,0,1,0,0,0,1,1,121
+south atlantic division,0,1,0,0,1,0,0,48
+south atlantic division,0,1,0,0,1,1,0,28
+south atlantic division,1,0,0,0,0,0,0,149485
+south atlantic division,1,0,0,0,0,0,1,6323
+south atlantic division,1,0,0,0,0,1,0,33208
+south atlantic division,1,0,0,0,0,1,1,937
+south atlantic division,1,0,0,0,1,0,0,2718
+south atlantic division,1,0,0,0,1,0,1,66
+south atlantic division,1,0,0,0,1,1,0,1460
+south atlantic division,1,0,0,0,1,1,1,18
+south atlantic division,1,0,0,1,0,0,0,7227
+south atlantic division,1,0,0,1,0,0,1,454
+south atlantic division,1,0,0,1,0,1,0,2495
+south atlantic division,1,0,0,1,0,1,1,90
+south atlantic division,1,0,0,1,1,0,0,1123
+south atlantic division,1,0,0,1,1,1,0,507
+south atlantic division,1,0,1,0,0,0,0,1053
+south atlantic division,1,0,1,0,0,0,1,87
+south atlantic division,1,0,1,0,0,1,0,451
+south atlantic division,1,0,1,0,0,1,1,14
+south atlantic division,1,1,0,0,0,0,0,30358
+south atlantic division,1,1,0,0,0,0,1,596
+south atlantic division,1,1,0,0,0,1,0,9787
+south atlantic division,1,1,0,0,0,1,1,126
+south atlantic division,1,1,0,0,1,0,0,53
+south atlantic division,1,1,0,0,1,1,0,33
+east south central div,0,0,0,0,0,0,0,52469
+east south central div,0,0,0,0,0,0,1,1025
+east south central div,0,0,0,0,0,1,0,11009
+east south central div,0,0,0,0,0,1,1,147
+east south central div,0,0,0,0,1,0,0,479
+east south central div,0,0,0,0,1,1,0,271
+east south central div,0,0,0,1,0,0,0,844
+east south central div,0,0,0,1,0,0,1,31
+east south central div,0,0,0,1,0,1,0,308
+east south central div,0,0,0,1,1,0,0,177
+east south central div,0,0,0,1,1,1,0,93
+east south central div,0,0,1,0,0,0,0,126
+east south central div,0,0,1,0,0,0,1,10
+east south central div,0,0,1,0,0,1,0,63
+east south central div,0,1,0,0,0,0,0,10444
+east south central div,0,1,0,0,0,0,1,80
+east south central div,0,1,0,0,0,1,0,2890
+east south central div,0,1,0,0,0,1,1,13
+east south central div,0,1,0,0,1,0,0,28
+east south central div,1,0,0,0,0,0,0,47432
+east south central div,1,0,0,0,0,0,1,1058
+east south central div,1,0,0,0,0,1,0,11379
+east south central div,1,0,0,0,0,1,1,161
+east south central div,1,0,0,0,1,0,0,483
+east south central div,1,0,0,0,1,1,0,312
+east south central div,1,0,0,1,0,0,0,666
+east south central div,1,0,0,1,0,0,1,23
+east south central div,1,0,0,1,0,1,0,291
+east south central div,1,0,0,1,1,0,0,265
+east south central div,1,0,0,1,1,1,0,146
+east south central div,1,0,1,0,0,0,0,92
+east south central div,1,0,1,0,0,1,0,66
+east south central div,1,1,0,0,0,0,0,8358
+east south central div,1,1,0,0,0,0,1,67
+east south central div,1,1,0,0,0,1,0,2757
+east south central div,1,1,0,0,0,1,1,18
+east south central div,1,1,0,0,1,0,0,34
+west south central div,0,0,0,0,0,0,0,80722
+west south central div,0,0,0,0,0,0,1,2685
+west south central div,0,0,0,0,0,1,0,16362
+west south central div,0,0,0,0,0,1,1,363
+west south central div,0,0,0,0,1,0,0,18104
+west south central div,0,0,0,0,1,0,1,296
+west south central div,0,0,0,0,1,1,0,6742
+west south central div,0,0,0,0,1,1,1,74
+west south central div,0,0,0,1,0,0,0,4505
+west south central div,0,0,0,1,0,0,1,242
+west south central div,0,0,0,1,0,1,0,1341
+west south central div,0,0,0,1,0,1,1,28
+west south central div,0,0,0,1,1,0,0,2998
+west south central div,0,0,0,1,1,0,1,27
+west south central div,0,0,0,1,1,1,0,1131
+west south central div,0,0,1,0,0,0,0,762
+west south central div,0,0,1,0,0,0,1,56
+west south central div,0,0,1,0,0,1,0,237
+west south central div,0,1,0,0,0,0,0,13879
+west south central div,0,1,0,0,0,0,1,184
+west south central div,0,1,0,0,0,1,0,3638
+west south central div,0,1,0,0,0,1,1,35
+west south central div,0,1,0,0,1,0,0,85
+west south central div,0,1,0,0,1,1,0,66
+west south central div,1,0,0,0,0,0,0,73954
+west south central div,1,0,0,0,0,0,1,2818
+west south central div,1,0,0,0,0,1,0,16725
+west south central div,1,0,0,0,0,1,1,402
+west south central div,1,0,0,0,1,0,0,16569
+west south central div,1,0,0,0,1,0,1,287
+west south central div,1,0,0,0,1,1,0,6920
+west south central div,1,0,0,0,1,1,1,110
+west south central div,1,0,0,1,0,0,0,4036
+west south central div,1,0,0,1,0,0,1,207
+west south central div,1,0,0,1,0,1,0,1587
+west south central div,1,0,0,1,0,1,1,32
+west south central div,1,0,0,1,1,0,0,3056
+west south central div,1,0,0,1,1,0,1,26
+west south central div,1,0,0,1,1,1,0,1260
+west south central div,1,0,1,0,0,0,0,631
+west south central div,1,0,1,0,0,0,1,51
+west south central div,1,0,1,0,0,1,0,229
+west south central div,1,1,0,0,0,0,0,11899
+west south central div,1,1,0,0,0,0,1,195
+west south central div,1,1,0,0,0,1,0,3854
+west south central div,1,1,0,0,0,1,1,33
+west south central div,1,1,0,0,1,0,0,58
+west south central div,1,1,0,0,1,1,0,76
+mountain division,0,0,0,0,0,0,0,61339
+mountain division,0,0,0,0,0,0,1,1960
+mountain division,0,0,0,0,0,1,0,12759
+mountain division,0,0,0,0,0,1,1,300
+mountain division,0,0,0,0,1,0,0,6798
+mountain division,0,0,0,0,1,0,1,89
+mountain division,0,0,0,0,1,1,0,2805
+mountain division,0,0,0,0,1,1,1,27
+mountain division,0,0,0,1,0,0,0,2861
+mountain division,0,0,0,1,0,0,1,113
+mountain division,0,0,0,1,0,1,0,747
+mountain division,0,0,0,1,0,1,1,22
+mountain division,0,0,0,1,1,0,0,1828
+mountain division,0,0,0,1,1,0,1,22
+mountain division,0,0,0,1,1,1,0,796
+mountain division,0,0,1,0,0,0,0,484
+mountain division,0,0,1,0,0,0,1,30
+mountain division,0,0,1,0,0,1,0,153
+mountain division,0,1,0,0,0,0,0,1962
+mountain division,0,1,0,0,0,0,1,32
+mountain division,0,1,0,0,0,1,0,599
+mountain division,0,1,0,0,1,0,0,38
+mountain division,0,1,0,0,1,1,0,32
+mountain division,1,0,0,0,0,0,0,58114
+mountain division,1,0,0,0,0,0,1,2030
+mountain division,1,0,0,0,0,1,0,13460
+mountain division,1,0,0,0,0,1,1,324
+mountain division,1,0,0,0,1,0,0,6338
+mountain division,1,0,0,0,1,0,1,76
+mountain division,1,0,0,0,1,1,0,2937
+mountain division,1,0,0,0,1,1,1,30
+mountain division,1,0,0,1,0,0,0,2253
+mountain division,1,0,0,1,0,0,1,87
+mountain division,1,0,0,1,0,1,0,808
+mountain division,1,0,0,1,0,1,1,21
+mountain division,1,0,0,1,1,0,0,1924
+mountain division,1,0,0,1,1,0,1,18
+mountain division,1,0,0,1,1,1,0,965
+mountain division,1,0,1,0,0,0,0,378
+mountain division,1,0,1,0,0,0,1,18
+mountain division,1,0,1,0,0,1,0,156
+mountain division,1,1,0,0,0,0,0,2087
+mountain division,1,1,0,0,0,0,1,43
+mountain division,1,1,0,0,0,1,0,751
+mountain division,1,1,0,0,0,1,1,11
+mountain division,1,1,0,0,1,0,0,40
+mountain division,1,1,0,0,1,1,0,40
+pacific division,0,0,0,0,0,0,0,101699
+pacific division,0,0,0,0,0,0,1,5321
+pacific division,0,0,0,0,0,1,0,19822
+pacific division,0,0,0,0,0,1,1,802
+pacific division,0,0,0,0,1,0,0,19150
+pacific division,0,0,0,0,1,0,1,554
+pacific division,0,0,0,0,1,1,0,8027
+pacific division,0,0,0,0,1,1,1,200
+pacific division,0,0,0,1,0,0,0,19271
+pacific division,0,0,0,1,0,0,1,1360
+pacific division,0,0,0,1,0,1,0,4912
+pacific division,0,0,0,1,0,1,1,232
+pacific division,0,0,0,1,1,0,0,9857
+pacific division,0,0,0,1,1,0,1,219
+pacific division,0,0,0,1,1,1,0,4158
+pacific division,0,0,0,1,1,1,1,79
+pacific division,0,0,1,0,0,0,0,6842
+pacific division,0,0,1,0,0,0,1,558
+pacific division,0,0,1,0,0,1,0,1717
+pacific division,0,0,1,0,0,1,1,74
+pacific division,0,1,0,0,0,0,0,6501
+pacific division,0,1,0,0,0,0,1,171
+pacific division,0,1,0,0,0,1,0,1722
+pacific division,0,1,0,0,0,1,1,43
+pacific division,0,1,0,0,1,0,0,95
+pacific division,0,1,0,0,1,1,0,71
+pacific division,1,0,0,0,0,0,0,95786
+pacific division,1,0,0,0,0,0,1,5646
+pacific division,1,0,0,0,0,1,0,21660
+pacific division,1,0,0,0,0,1,1,859
+pacific division,1,0,0,0,1,0,0,17507
+pacific division,1,0,0,0,1,0,1,517
+pacific division,1,0,0,0,1,1,0,8134
+pacific division,1,0,0,0,1,1,1,226
+pacific division,1,0,0,1,0,0,0,16363
+pacific division,1,0,0,1,0,0,1,1139
+pacific division,1,0,0,1,0,1,0,5118
+pacific division,1,0,0,1,0,1,1,230
+pacific division,1,0,0,1,1,0,0,9827
+pacific division,1,0,0,1,1,0,1,207
+pacific division,1,0,0,1,1,1,0,4626
+pacific division,1,0,0,1,1,1,1,77
+pacific division,1,0,1,0,0,0,0,5459
+pacific division,1,0,1,0,0,0,1,462
+pacific division,1,0,1,0,0,1,0,1685
+pacific division,1,0,1,0,0,1,1,76
+pacific division,1,0,1,0,1,0,0,13
+pacific division,1,1,0,0,0,0,0,6425
+pacific division,1,1,0,0,0,0,1,203
+pacific division,1,1,0,0,0,1,0,2158
+pacific division,1,1,0,0,0,1,1,35
+pacific division,1,1,0,0,1,0,0,92
+pacific division,1,1,0,0,1,1,0,109
